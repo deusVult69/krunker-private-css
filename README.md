@@ -10,8 +10,6 @@ More css coming soon..
 
 [![Cosmos css preview](https://github.com/deusVult69/krunker-private-css/blob/main/previews/cosmos-preview.png?raw=true)](https://youtu.be/dUeuFXRNIqw "Cosmos css preview")
 
-https://youtu.be/ndeRMFUH_xE
-
 # krunker social hub css. hub v2
 
 [![hub v2 css preview](https://github.com/deusVult69/krunker-private-css/blob/main/previews/hubv2-preview.png?raw=true)](https://youtu.be/dUeuFXRNIqw "hub v2 css")
